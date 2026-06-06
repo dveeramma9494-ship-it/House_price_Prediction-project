@@ -11,14 +11,14 @@ Perform exploratory data analysis
 Build and train predictive models
 Evaluate model performance
 Predict house prices for new data
-🛠️ Technologies Used
+## Technologies Used
 Python
 Pandas
 NumPy
 Matplotlib
 Scikit-learn
 Jupyter Notebook
-📊 Project Workflow
+## Project Workflow
 Data Collection
 Data Cleaning
 Exploratory Data Analysis (EDA)
@@ -26,6 +26,6 @@ Feature Engineering
 Model Training
 Model Evaluation
 House Price Prediction
-📈 Results
+## Results
 
 The trained model predicts house prices based on housing features and helps identify key factors affecting property values.
